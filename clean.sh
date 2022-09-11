@@ -9,3 +9,5 @@ IFS=$'\n' contexts=($(kubectl config get-contexts --output=name))
     sleep 5
    done
 
+
+terraform destroy --auto-approve
