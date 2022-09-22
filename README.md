@@ -1,6 +1,10 @@
 Linode Site Failover Workshop
 ======================
 
+#Interested on a automated way to do this?
+
+You can go to repo https://github.com/jcotoBan/automated-linode-failover-workshop if curious.
+
 # About
 
 Package of template files, examples, and illustrations for the Linode Site Failover Workshop Exercise.
