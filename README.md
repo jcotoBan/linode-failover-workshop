@@ -5,6 +5,8 @@ Linode Site Failover Workshop
 
 You can go to repo https://github.com/jcotoBan/automated-linode-failover-workshop if curious.
 
+At least for the linode part, the Akamai setup is still a manual.
+
 # About
 
 Package of template files, examples, and illustrations for the Linode Site Failover Workshop Exercise.
